@@ -13,7 +13,7 @@
           * e.g. C:\QuickStart\eGroupAI_FaceEngine_CPU_Windows_V4.2.2\license.key
       * Download QuickStart resources and put in the QuickStart 
           * e.g. C:\QuickStart\eGroupAI_FaceEngine_CPU_Windows_V4.2.2\resources
-   * Run Java application - QuickStart Example
+   * Run PHP application - QuickStart Example
       * Application will call engine by cli
           * Training Jerry faceDB
           * Start 1st recognition - video
